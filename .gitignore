@@ -1,0 +1,6 @@
+# Banco de dados local (gerado automaticamente)
+db/shopping_list.db
+
+# Arquivos temporários do Python
+__pycache__/
+*.py[cod]
